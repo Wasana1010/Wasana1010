@@ -16,23 +16,24 @@
 
 ### 🛠️ Languages & Frameworks
 <p align="left">
-  <img src="https://githubusercontent.com" alt="java" width="38" height="38"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="csharp" width="38" height="38"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="python" width="38" height="38"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="spring" width="38" height="38"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="laravel" width="38" height="38"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="javascript" width="38" height="38"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="html5" width="38" height="38"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="css3" width="38" height="38"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="java" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="csharp" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="python" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="spring" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="laravel" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="javascript" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="html5" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="css3" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="c" width="40" height="40"/> &nbsp;
 </p>
 
 ### 💾 Database Systems
 <p align="left">
-  <img src="https://githubusercontent.com" alt="mysql" width="38" height="38"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="mssql" width="38" height="38"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="oracle" width="38" height="38"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="mongodb" width="38" height="38"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="mariadb" width="38" height="38"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="mysql" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="mssql" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="oracle" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="mongodb" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="mariadb" width="40" height="40"/> &nbsp;
 </p>
 
 ---
@@ -40,6 +41,6 @@
 ### 🤝 Connect with me
 <p align="left">
   <a href="https://linkedin.com" target="blank">
-    <img src="https://githubusercontent.com" alt="LinkedIn" height="28" width="38" />
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </p>
